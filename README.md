@@ -1,0 +1,9 @@
+<h1 align="center">
+  <br>  <a href="https://github.com/Awrsha/Shooter-Game"><img src="https://s2.uupload.ir/files/picsart_23-03-22_21-53-01-541_no85.png" alt="HSL" width="200"></a>  <br> Qazvin Islamic Azad University  <br></h1><b><h4 align="center">.:: Shooter Game ::.</h4></b><p align="center"><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/Version-1.2.1-brightgreen" alt="HSL" width="100"></a><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/Platform-windows-blue" alt="HSL" width="130"></a><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/LICENSE-GNU-red" alt="HSL" width="110"></a><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/Developers-3-lightgrey" alt="HSL" width="100"></a></p>
+  
+  
+# Languages
+<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" />    </code>
+
+##  System & Hardware 🛠
+<br>  <summary><b>⚙️ Things I use to get stuff done</b></summary>  	<ul>  	    <li><b>OS:</b> Windows 11</li>	    <li><b>Laptop: </b>TUF Gaming</li>	    <li><b>Code Editor:</b> Visual Studio Code - The best editor out there.</li>	    <li><b>To Stay Updated:</b> Medium, Linkedin and Instagram.</li>	    <br />	⚛️ Checkout Our VSCode Configrations <a href="">Here</a>.	</ul>	<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p></p><p align="center"><img height="27" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" /></p>
