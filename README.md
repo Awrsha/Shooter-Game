@@ -1,4 +1,7 @@
 ⚠️ **Tip!** The project has not reached the final stage and is being developed.  
+
+Thanks to [Dr. Mohammad Hossein Rezvani](https://ir.linkedin.com/in/mohammad-hossein-rezvani-1b708158), one of the professors of Islamic Azad University, for her support and encouragement for us to start this project.
+
 <h1 align="center"> <br><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://s2.uupload.ir/files/picsart_23-03-22_21-53-01-541_no85.png" alt="HSL" width="200"></a> <br> Qazvin Islamic Azad University <br></h1><b><h4 align="center">.:: Shooter Game ::.</h4></b><p align="center"><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/Version-1.2.1-brightgreen" alt="HSL" width="100"></a><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/Platform-windows-blue" alt="HSL" width="130"></a><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/LICENSE-GNU-red" alt="HSL" width="110"></a><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/Developers-3-lightgrey" alt="HSL" width="100"></a></p>  
   
   
@@ -122,7 +125,13 @@ Gun and water well files are prepared manually in **Maya** software from zero to
 
 <p align="center">
 
-<a href="https://github.com/Awrsha"><img src="https://avatars.githubusercontent.com/u/89135083?v=4" width="100;" alt="Mahdi Zeinali"/><br /><sub><b>.:: Amir M. Parvizi ::.</b></sub></a>
+<a href="https://github.com/Mohsen020"><img src="https://avatars.githubusercontent.com/u/127343209?v=4" width="100;" alt="Mohsen Moradi"/><br /><sub><b>.:: Mohsen Moradi ::.</b></sub></a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Awrsha"><img src="https://avatars.githubusercontent.com/u/89135083?v=4" width="100;" alt="Awrsha Parvizi"/><br /><sub><b>.:: Amir M. Parvizi ::.</b></sub></a>
 
 </p>
 
