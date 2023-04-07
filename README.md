@@ -9,11 +9,12 @@
 
 ### Preliminary  
   
-* What is Shooter-Game ? 🔫> Shooter video games or shooters are a subgenre of action video games where the focus is almost entirely on the defeat of the character's enemies using the weapons given to the player.  
+* What is Shooter-Game ? 🔫
+> Shooter video games or shooters are a subgenre of action video games where the focus is almost entirely on the defeat of the character's enemies using the weapons given to the player.  
   
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### Download necessaries  
+### Download necessaries 
   
 To start, it is better to install the prerequisite programs first, such as : [Unity Hub and Unity](https://unity.com/download), [Maya](https://www.autodesk.ca/en/products/maya/overview?term=1-YEAR&tab=subscription), [Visual Studio](https://visualstudio.microsoft.com/) or [VSCode](https://code.visualstudio.com/)  
   
@@ -117,7 +118,7 @@ Gun and water well files are prepared manually in **Maya** software from zero to
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-# Developers
+## Developers 👨🏻‍💻
 
 <p align="center">
 
