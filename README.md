@@ -1,8 +1,9 @@
+
 ⚠️ **Tip!** The project has not reached the final stage and is being developed.  
 
 Thanks to [Dr. Mohammad Hossein Rezvani](https://ir.linkedin.com/in/mohammad-hossein-rezvani-1b708158), one of the professors of Islamic Azad University, for her support and encouragement for us to start this project.
 
-<h1 align="center"> <br><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://s2.uupload.ir/files/picsart_23-03-22_21-53-01-541_no85.png" alt="HSL" width="200"></a> <br> Qazvin Islamic Azad University <br></h1><b><h4 align="center">.:: Shooter Game ::.</h4></b><p align="center"><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/Version-1.2.1-brightgreen" alt="HSL" width="100"></a><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/Platform-windows-blue" alt="HSL" width="130"></a><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/LICENSE-MIT-yellow" alt="HSL" width="110"></a><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/Developers-3-lightgrey" alt="HSL" width="100"></a></p>  
+<h1 align="center"> <br><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://s2.uupload.ir/files/picsart_23-03-22_21-53-01-541_no85.png" alt="HSL" width="200"></a> <br> Qazvin Islamic Azad University <br></h1><b><h4 align="center">.:: Third Person Shooter Game ::.</h4></b><p align="center"><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/Version-1.2.1-brightgreen" alt="HSL" width="100"></a><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/Platform-windows-blue" alt="HSL" width="130"></a><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/LICENSE-MIT-yellow" alt="HSL" width="110"></a><a href="https://github.com/Awrsha/Shooter-Game"><img src="https://img.shields.io/badge/Developers-3-lightgrey" alt="HSL" width="100"></a></p>  
   
   
 ## Languages  
@@ -25,11 +26,11 @@ To start, it is better to install the prerequisite programs first, such as : [Un
 
 ### Run for yourself  
   
-1. Install Unity software through Unity Hub. Our preference is older versions like 2021 because there are less license and standard assets problems.  
+1. Download and extract the **zip** file .
   
-2. Download the standard assets folder from GitHub and upload it to your Unity software  
+2. Run the file in **exe** format.
   
-3. Try to link the files with proper configuration  
+3. Close the game by pressing the `Alt + Tab` buttons at the same time. 
   
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -42,85 +43,56 @@ Gun and water well files are prepared manually in **Maya** software from zero to
 
 ## What to expect from a shooter game ?
   
-* GUN : We havee to put our weapon that we designed in [Maya](https://www.autodesk.ca/en/products/maya/overview?term=1-YEAR&tab=subscription) in the right way in the hands of the character ans walk with it.
+* **Walking, Camera Follow & Rotation** : Like most games, move forward by pressing the `W` button, move to the right and left by pressing the `D` and `A` buttons respectively, and move backward by pressing the `S` button.
 
 <br />
 <div align="center">
-<img align="center" height="250" width="375" alt="gif" src="https://user-images.githubusercontent.com/89135083/230602718-61b1a8c8-2175-4172-bfb7-c2018e21fa8b.gif"/></div>
+<img align="center" height="300" width="450" alt="gif" src="https://github.com/Awrsha/Shooter-Game/assets/89135083/a8f7acfb-252e-47f0-980b-60456fb71d06"/></div>
 <br />
 
-* Level Design :  character should be able to walk easily in an attractive enviroment. Like most games, move forward by pressing the `W` button, move to the right and left by pressing the `D` and `A` buttons respectively, and move backward by pressing the `S` button.
-
-<br />
-<div align="center">
-<img align="center" height="250" width="375" alt="gif" src="https://user-images.githubusercontent.com/89135083/230602903-6e4997e2-a591-4f71-92ab-0b9d06cd7986.gif"/></div>
-<br />
-
-* Walk, Run and Stand : By pressing the `W key` on the keyboard, the character should start walking. And by holding the `W key` and `Shift buttons` at the *same time*, the character should change from walking to running. By releasing the `Shift button`, the character will walk again. And by releasing the `W key`, the character should **Stop** !
+* **Zombie Chasing & Hit** :  If you get too close to a zombie, he will detect you and follow you and hit you after he reaches you.
 
 <br />
 <div align="center">
-<img align="center" height="250" width="375" alt="gif" src="https://user-images.githubusercontent.com/89135083/230603103-18758f8c-b87e-455b-a7cc-a16f561f62d3.gif"/></div>
+<img align="center" height="300" width="450" alt="gif" src="https://github.com/Awrsha/Shooter-Game/assets/89135083/572bde27-0ba1-4fc7-841a-5b289811a5fc"/></div>
 <br />
 
-* Weather : The game must have the ability to change the weather. Except for changing from night to day and vice versa, it is better to heve the ability of sunny and cloudy weather.
-
-<br />
-<div align="center">
-<img align="center" height="250" width="375" alt="gif" src="https://user-images.githubusercontent.com/89135083/230603194-cf8cfa2f-de27-44a8-8983-f02d397d1a25.gif"/></div>
-<br />
-
-* Reading information from the **keyboard** or **game controller** : but the best way is to use both of these at the same time :)
+* **Switching Gun** : Arm yourself by pressing the `E` button and exit the armed and ready-to-fire mode by pressing the same button again !
 
 <br />
 <div align="center">
-<img align="center" height="250" width="375" alt="gif" src="https://user-images.githubusercontent.com/89135083/230604232-b86b73ab-16d2-4dfb-9688-fe7b972e241a.gif"/></div>
+<img align="center" height="300" width="450" alt="gif" src="https://github.com/Awrsha/Shooter-Game/assets/89135083/3638ccc6-449a-4393-a88d-fe9f2da7ff19"/></div>
+<br />
+
+* **Running & Camera Follow** :  By pressing the 	` W `	button, the character starts to walk, and by holding that button and pressing the `Shift` button at the same time, the character starts to run.
+
+<br />
+<div align="center">
+<img align="center" height="300" width="450" alt="gif" src="https://github.com/Awrsha/Shooter-Game/assets/89135083/219333d8-cc0f-4b77-9b5c-029fcc2688bc"/></div>
+<br />
+
+* **Scene View** : The operation of rotation is also possible with the help of a computer mouse.
+
+<br />
+<div align="center">
+<img align="center" height="300" width="450" alt="gif" src="https://github.com/Awrsha/Shooter-Game/assets/89135083/16e8db13-b807-4e90-a742-8332780d38d3"/></div>
 <br />
   
-* Animation : Of course, I did not use the following animation in our game and this animation is only for fun ! We have weapon capture animations in the game.
+* **Aiming & Camera Zoom** : By aiming (Press the **right mouse button**) the camera it goes slightly towards the character's shoulder so that you have a good view to shoot the zombie.
 
 <br />
 <div align="center">
-<img align="center" height="250" width="375" alt="gif" src="https://user-images.githubusercontent.com/89135083/230604357-1e8cc7cb-bcac-400a-a5d7-0b068ef25937.gif"/></div>
+<img align="center" height="300" width="450" alt="gif" src="https://github.com/Awrsha/Shooter-Game/assets/89135083/afe00bee-d255-4b65-9755-5917aa7de843"/></div>
 <br />
   
-* Attack Mode : It is better for the character to have an animation to get the attack mode.
+* **Shooting & Killing Zombie** : Press the **left mouse button** to shoot.
+* Tip : This section is under development.
 
 <br />
 <div align="center">
-<img align="center" height="250" width="375" alt="gif" src="https://user-images.githubusercontent.com/89135083/230604699-c241831d-ddc3-4682-a11b-f03b22a7c229.gif"/></div>
+<img align="center" height="300" width="450" alt="gif" src="https://github.com/Awrsha/Shooter-Game/assets/89135083/d8548c9b-3e73-4ae2-939c-c2bf5368ae3e"/></div>
 <br />
   
-* Using the mouse to move : Of course, after some time, we decided not to use the mouse and use the keyboard itself to rotate.
-
-<br />
-<div align="center">
-<img align="center" height="250" width="375" alt="gif" src="https://user-images.githubusercontent.com/89135083/230605019-197007dd-127e-4f08-b51c-90379797cb29.gif"/></div>
-<br />
-
-* weapon switch : By pressing the `E key`, you can remove the weapon or return it to its previous position.
-
-<br />
-<div align="center">
-<img align="center" height="250" width="375" alt="gif" src="https://user-images.githubusercontent.com/89135083/230655583-6310f482-5095-44c6-bff5-70049e994422.gif"/></div>
-<br />
-  
-* Aiming animation: The character must take aim with the gun.
-
-<br />
-<div align="center">
-<img align="center" height="250" width="375" alt="gif" src="https://user-images.githubusercontent.com/89135083/230655662-a817ace3-6ac2-4c69-9a9e-cc045e957725.gif"/></div>
-<br />
-  
-* 360 camera rotatione : It is better to have a complete rotation around the character like **GTA** or **Assassins** games.
-
-<br />
-<div align="center">
-<img align="center" height="250" width="375" alt="gif" src="https://user-images.githubusercontent.com/89135083/230655943-7c97f10c-bc2c-4326-8ece-f13c9ad913e4.gif"/></div>
-<br />
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 ## Developers 👨🏻‍💻
 
 <p align="center">
